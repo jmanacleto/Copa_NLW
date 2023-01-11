@@ -11,7 +11,7 @@ Project developed during the Next Level Week Cup, on the explorer 2022 trail
 
 ## 🚀 Instruction to start
 - Clone the repository using the command ``` git clone https://github.com/jmanacleto/Copa_NLW2k22.git```
-- Go to the downloaded CrudPhp directory using ```cd nlwcopa-explorer``` command in command line
+- Go to the downloaded CrudPhp directory using ```cd nlw_copa_explorer``` command in command line
 
 - Used for study purposes only.
 - Have a good time
